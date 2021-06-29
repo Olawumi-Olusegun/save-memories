@@ -1,0 +1,11 @@
+.create__memory {
+      width: 70%;
+      margin: 2rem auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+.create__memory h2 {
+      color: gray;
+}
